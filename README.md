@@ -46,7 +46,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
-
+```
+Developed by : Jayaganapathi S
+Register number : 212224040133
+```
 # Program :
 ```python
 import numpy as np
